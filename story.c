@@ -18,11 +18,15 @@ int main( void )
   bmwr84_second();
   darrensSentence2();
   
+  jn9qc_Sentence1();
+
   jpvc4_Sentence1();
   jpvc4_Sentence2();
 
   amd2b7_sentence1();
   amd2b7_sentence2();
+
+  jn9qc_Sentence2();
 
   // Bens sentence should be last.
   bensSentence_FINAL();

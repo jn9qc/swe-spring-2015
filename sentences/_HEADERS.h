@@ -11,3 +11,5 @@ int jpvc4_Sentence1();
 int jpvc4_Sentence2();
 int amd2b7_sentence1();
 int amd2b7_sentence2();
+int jn9qc_Sentence1();
+int jn9qc_Sentence2();

@@ -5,6 +5,6 @@ return 1;
 }
 
 int amd2b7_sentence2(){
-printf("Little did he know that Agent Buckwald the wizard had secretly been working on to form a Link to the Past.");
+printf("Little did he know that Agent Buckwald the wizard had secretly been working on a potion to form a Link to the Past.\n");
 return 1;
 }
